@@ -1,5 +1,9 @@
 # SOSCON19 XDP
 
+[Slide Deck](SOSCON2019_keynote_XDP.pdf)
+
+[Demo](https://drive.google.com/file/d/1B_l2AOKWbWjmVrjKhXrPs3VOvGe65D-5/view?usp=drivesdk)
+
 Repo for the performance test from the slide
 
 **Disclaimer: scripts may not work with your environment, since this test is performed in specific environment**
